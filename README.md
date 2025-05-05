@@ -18,7 +18,7 @@ This notebook demonstrates how to apply and compare common regularization techni
 ```
 
 ## Setup
-open the notebook and run cells in order .
+Open the notebook (**main.ipynb**) and run cells in order.
 
 ## Learning Rate Schedule and Callbacks
 
